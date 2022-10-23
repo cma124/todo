@@ -1,24 +1,16 @@
-# todo
+# Vue Todo List
 
-## Project setup
-```
-yarn install
-```
+Simple todo list application with vue and browser local storage
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## What user can do
 
-### Compiles and minifies for production
-```
-yarn build
-```
+-   Create new list
+-   Mark list as completed
+-   Hide completed lists
+-   Delete completed lists
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Built with
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   Bootstrap
+-   Vue
+-   Local Storage
