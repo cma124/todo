@@ -9,6 +9,10 @@ Simple todo list application with vue and browser local storage
 -   Hide completed lists
 -   Delete completed lists
 
+## Live Site URL
+
+[todo-cma124.netlify.app/](https://todo-cma124.netlify.app/)
+
 ## Built with
 
 -   Bootstrap
